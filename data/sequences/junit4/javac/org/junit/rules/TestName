@@ -1,0 +1,14 @@
+method
+aload_0
+invokespecial
+return
+method
+aload_0
+aload_1
+invokevirtual
+putfield
+return
+method
+aload_0
+getfield
+areturn

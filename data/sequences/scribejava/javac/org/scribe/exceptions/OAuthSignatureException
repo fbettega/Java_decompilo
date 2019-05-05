@@ -1,0 +1,13 @@
+method
+aload_0
+ldc
+iconst_1
+anewarray
+dup
+iconst_0
+aload_1
+aastore
+invokestatic
+aload_2
+invokespecial
+return

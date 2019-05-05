@@ -1,0 +1,8 @@
+method
+ldc
+areturn
+method
+getstatic
+invokestatic
+invokevirtual
+return

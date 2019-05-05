@@ -1,0 +1,11 @@
+method
+getstatic
+areturn
+method
+return
+method
+new
+dup
+invokespecial
+putstatic
+return

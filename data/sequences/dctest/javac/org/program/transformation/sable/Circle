@@ -1,0 +1,12 @@
+method
+aload_0
+invokespecial
+aload_0
+iload_1
+putfield
+return
+method
+iconst_0
+ireturn
+method
+return

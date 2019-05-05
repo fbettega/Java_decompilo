@@ -1,0 +1,9 @@
+method
+aload_0
+aload_1
+iload_2
+iload_3
+aload
+iconst_1
+invokespecial
+return

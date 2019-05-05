@@ -1,0 +1,12 @@
+method
+aload_0
+aload_1
+aload_2
+invokespecial
+return
+method
+aload_0
+aload_1
+aconst_null
+invokespecial
+return

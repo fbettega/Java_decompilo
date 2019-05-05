@@ -1,0 +1,11 @@
+Class,isDecompilable,distanceToOriginal,nbNodesOriginal,isRecompilable,bytecodeDistance,passTests
+org/program/transformation/sable/Rectangle,true,12,130,true,0,true
+org/program/transformation/sable/Drawable,true,0,5,true,0,true
+org/program/transformation/sable/Main,true,18,238,true,28,true
+org/program/transformation/sable/Circle,true,3,64,true,0,true
+org/program/transformation/Casting,true,10,112,true,2,false
+org/program/transformation/Fibo,true,6,309,true,4,true
+org/program/transformation/Lambda,true,29,343,true,0,true
+org/program/transformation/Usa,true,23,376,true,2,true
+org/program/transformation/Foo,true,15,104,true,12,true
+org/program/transformation/TryFinally,true,106,447,false,NA,false

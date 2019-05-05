@@ -1,0 +1,16 @@
+method
+new
+dup
+invokespecial
+putstatic
+return
+method
+getstatic
+areturn
+method
+aload_1
+ifnull
+iconst_1
+ireturn
+iconst_0
+ireturn

@@ -1,0 +1,17 @@
+method
+new
+dup
+invokespecial
+putstatic
+return
+method
+aload_0
+aload_1
+invokespecial
+return
+method
+getstatic
+areturn
+method
+getstatic
+areturn

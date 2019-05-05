@@ -1,0 +1,13 @@
+method
+aload_0
+aload_1
+invokeinterface
+invokespecial
+aload_0
+aload_1
+putfield
+return
+method
+aload_0
+getfield
+areturn

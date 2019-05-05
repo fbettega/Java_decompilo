@@ -1,0 +1,4 @@
+Class,isDecompilable,distanceToOriginal,nbNodesOriginal,isRecompilable,bytecodeDistance,passTests
+DiskLruCache/eclipse/com/jakewharton/disklrucache/StrictLineReader,true,73,1878,false,NA,false
+DiskLruCache/eclipse/com/jakewharton/disklrucache/Util,true,38,464,false,NA,false
+DiskLruCache/eclipse/com/jakewharton/disklrucache/DiskLruCache,true,1235,11347,false,NA,false

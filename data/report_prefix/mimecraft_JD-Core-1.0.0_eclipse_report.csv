@@ -1,0 +1,5 @@
+Class,isDecompilable,distanceToOriginal,nbNodesOriginal,isRecompilable,bytecodeDistance,passTests
+mimecraft/eclipse/com/squareup/mimecraft/Part,true,171,3609,false,NA,NA
+mimecraft/eclipse/com/squareup/mimecraft/Multipart,true,26,1780,false,NA,false
+mimecraft/eclipse/com/squareup/mimecraft/Utils,true,4,363,true,4,true
+mimecraft/eclipse/com/squareup/mimecraft/FormEncoding,true,24,633,false,NA,false

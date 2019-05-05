@@ -1,0 +1,15 @@
+method
+new
+dup
+invokestatic
+ldc
+aload_0
+invokevirtual
+invokestatic
+invokevirtual
+aload_0
+invokeinterface
+invokevirtual
+invokevirtual
+invokespecial
+areturn

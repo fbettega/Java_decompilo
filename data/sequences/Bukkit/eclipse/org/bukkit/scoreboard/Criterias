@@ -1,0 +1,10 @@
+method
+ldc
+putstatic
+ldc
+putstatic
+ldc
+putstatic
+ldc
+putstatic
+return

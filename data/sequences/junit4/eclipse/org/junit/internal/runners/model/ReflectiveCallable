@@ -1,0 +1,12 @@
+method
+aload_0
+invokespecial
+return
+method
+aload_0
+invokevirtual
+areturn
+astore_1
+aload_1
+invokevirtual
+athrow

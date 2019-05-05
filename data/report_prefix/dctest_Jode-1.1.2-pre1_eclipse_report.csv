@@ -1,0 +1,11 @@
+Class,isDecompilable,distanceToOriginal,nbNodesOriginal,isRecompilable,bytecodeDistance,passTests
+dctest/eclipse/org/program/transformation/Usa,true,77,376,true,NA,false
+dctest/eclipse/org/program/transformation/Lambda,true,49,343,true,NA,false
+dctest/eclipse/org/program/transformation/Foo,true,11,104,true,20,true
+dctest/eclipse/org/program/transformation/Casting,true,19,112,true,0,true
+dctest/eclipse/org/program/transformation/Fibo,true,25,309,true,4,true
+dctest/eclipse/org/program/transformation/TryFinally,true,157,447,false,NA,false
+dctest/eclipse/org/program/transformation/sable/Circle,true,0,64,true,0,true
+dctest/eclipse/org/program/transformation/sable/Drawable,true,0,5,true,0,true
+dctest/eclipse/org/program/transformation/sable/Main,true,19,238,true,28,true
+dctest/eclipse/org/program/transformation/sable/Rectangle,true,8,130,true,0,true

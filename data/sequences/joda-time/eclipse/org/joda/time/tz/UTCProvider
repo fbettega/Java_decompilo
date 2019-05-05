@@ -1,0 +1,17 @@
+method
+aload_0
+invokespecial
+return
+method
+ldc
+aload_1
+invokevirtual
+ifeq
+getstatic
+areturn
+aconst_null
+areturn
+method
+ldc
+invokestatic
+areturn

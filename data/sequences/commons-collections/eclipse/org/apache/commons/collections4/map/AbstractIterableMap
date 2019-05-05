@@ -1,0 +1,11 @@
+method
+aload_0
+invokespecial
+return
+method
+new
+dup
+aload_0
+invokevirtual
+invokespecial
+areturn

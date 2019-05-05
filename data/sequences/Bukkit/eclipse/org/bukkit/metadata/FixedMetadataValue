@@ -1,0 +1,14 @@
+method
+aload_0
+aload_1
+invokespecial
+aload_0
+aload_2
+putfield
+return
+method
+return
+method
+aload_0
+getfield
+areturn

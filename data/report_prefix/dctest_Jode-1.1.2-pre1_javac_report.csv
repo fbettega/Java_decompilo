@@ -1,0 +1,11 @@
+Class,isDecompilable,distanceToOriginal,nbNodesOriginal,isRecompilable,bytecodeDistance,passTests
+dctest/javac/org/program/transformation/Usa,true,77,376,true,NA,false
+dctest/javac/org/program/transformation/Lambda,true,49,343,true,NA,false
+dctest/javac/org/program/transformation/Foo,true,11,104,true,0,true
+dctest/javac/org/program/transformation/Casting,true,20,112,true,0,true
+dctest/javac/org/program/transformation/Fibo,true,26,309,true,4,true
+dctest/javac/org/program/transformation/TryFinally,true,137,447,true,NA,false
+dctest/javac/org/program/transformation/sable/Circle,true,0,64,true,0,true
+dctest/javac/org/program/transformation/sable/Drawable,true,0,5,true,0,true
+dctest/javac/org/program/transformation/sable/Main,true,19,238,true,28,true
+dctest/javac/org/program/transformation/sable/Rectangle,true,0,130,true,0,true

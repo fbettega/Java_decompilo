@@ -1,0 +1,17 @@
+method
+aload_0
+aload_1
+aload_2
+getstatic
+iconst_0
+invokespecial
+return
+method
+aload_0
+getfield
+checkcast
+areturn
+method
+aload_0
+invokevirtual
+areturn

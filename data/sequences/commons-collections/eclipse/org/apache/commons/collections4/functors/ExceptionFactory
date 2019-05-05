@@ -1,0 +1,15 @@
+method
+new
+dup
+invokespecial
+putstatic
+return
+method
+getstatic
+areturn
+method
+new
+dup
+ldc
+invokespecial
+athrow

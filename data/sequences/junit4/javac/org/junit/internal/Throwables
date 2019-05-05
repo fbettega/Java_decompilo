@@ -1,0 +1,5 @@
+method
+aload_0
+invokestatic
+aconst_null
+areturn

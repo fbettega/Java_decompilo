@@ -1,0 +1,7 @@
+method
+aload_0
+invokespecial
+return
+method
+aconst_null
+areturn

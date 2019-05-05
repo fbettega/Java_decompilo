@@ -1,0 +1,7 @@
+method
+aload_0
+invokevirtual
+areturn
+method
+invokestatic
+return

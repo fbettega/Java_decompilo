@@ -1,0 +1,17 @@
+method
+aload_0
+invokespecial
+return
+method
+iload_1
+ldc
+if_icmplt
+iload_1
+ldc
+if_icmpgt
+iconst_1
+ireturn
+iconst_0
+ireturn
+method
+ANNOTATION

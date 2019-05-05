@@ -1,0 +1,13 @@
+method
+new
+dup
+aload_0
+aload_1
+invokespecial
+areturn
+method
+new
+dup
+aload_0
+invokespecial
+areturn

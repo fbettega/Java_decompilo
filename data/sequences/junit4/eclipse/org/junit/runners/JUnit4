@@ -1,0 +1,5 @@
+method
+aload_0
+aload_1
+invokespecial
+return

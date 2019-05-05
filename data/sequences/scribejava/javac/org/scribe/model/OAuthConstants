@@ -1,0 +1,8 @@
+method
+new
+dup
+ldc
+ldc
+invokespecial
+putstatic
+return

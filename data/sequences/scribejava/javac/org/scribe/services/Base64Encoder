@@ -1,0 +1,15 @@
+method
+aload_0
+invokespecial
+return
+method
+getstatic
+ifnonnull
+invokestatic
+putstatic
+getstatic
+areturn
+method
+invokestatic
+invokevirtual
+areturn

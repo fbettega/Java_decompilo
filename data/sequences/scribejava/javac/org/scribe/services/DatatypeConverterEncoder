@@ -1,0 +1,11 @@
+method
+aload_0
+invokespecial
+return
+method
+aload_1
+invokestatic
+areturn
+method
+ldc
+areturn

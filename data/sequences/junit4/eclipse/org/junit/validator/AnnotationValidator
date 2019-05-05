@@ -1,0 +1,17 @@
+method
+invokestatic
+putstatic
+return
+method
+aload_0
+invokespecial
+return
+method
+getstatic
+areturn
+method
+getstatic
+areturn
+method
+getstatic
+areturn

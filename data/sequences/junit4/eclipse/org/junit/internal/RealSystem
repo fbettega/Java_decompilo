@@ -1,0 +1,13 @@
+method
+aload_0
+invokespecial
+return
+method
+ANNOTATION
+method
+iload_1
+invokestatic
+return
+method
+getstatic
+areturn

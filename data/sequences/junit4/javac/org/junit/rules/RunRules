@@ -1,0 +1,15 @@
+method
+aload_0
+invokespecial
+aload_0
+aload_1
+aload_2
+aload_3
+invokestatic
+putfield
+return
+method
+aload_0
+getfield
+invokevirtual
+return

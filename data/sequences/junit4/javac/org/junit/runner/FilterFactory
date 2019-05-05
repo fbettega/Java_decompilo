@@ -1,0 +1,9 @@
+inner_start
+method
+aload_0
+aload_1
+invokevirtual
+aload_1
+invokespecial
+return
+inner_end

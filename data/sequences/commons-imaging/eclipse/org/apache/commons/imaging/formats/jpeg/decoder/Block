@@ -1,0 +1,16 @@
+method
+aload_0
+invokespecial
+aload_0
+iload_1
+iload_2
+imul
+newarray
+putfield
+aload_0
+iload_1
+putfield
+aload_0
+iload_2
+putfield
+return

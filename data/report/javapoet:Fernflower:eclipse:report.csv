@@ -1,0 +1,3 @@
+Class,isDecompilable,distanceToOriginal,nbNodesOriginal,isRecompilable,bytecodeDistance,passTests
+com/squareup/javawriter/JavaWriter,true,2664,12062,false,NA,false
+com/squareup/javawriter/StringLiteral,true,30,768,true,27,true

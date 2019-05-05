@@ -1,0 +1,13 @@
+method
+aload_0
+invokespecial
+return
+method
+aload_1
+iconst_0
+aload_2
+iconst_0
+aload_1
+arraylength
+invokestatic
+return

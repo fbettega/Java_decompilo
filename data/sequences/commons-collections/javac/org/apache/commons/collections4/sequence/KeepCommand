@@ -1,0 +1,11 @@
+method
+aload_0
+aload_1
+invokespecial
+return
+method
+aload_1
+aload_0
+invokevirtual
+invokeinterface
+return

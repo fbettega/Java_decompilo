@@ -1,0 +1,4 @@
+Class,isDecompilable,distanceToOriginal,nbNodesOriginal,isRecompilable,bytecodeDistance,passTests
+DiskLruCache/javac/com/jakewharton/disklrucache/StrictLineReader,true,382,1878,false,NA,false
+DiskLruCache/javac/com/jakewharton/disklrucache/Util,true,70,464,false,NA,false
+DiskLruCache/javac/com/jakewharton/disklrucache/DiskLruCache,true,2392,11347,true,NA,false

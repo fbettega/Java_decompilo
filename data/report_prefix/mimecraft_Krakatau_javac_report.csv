@@ -1,0 +1,5 @@
+Class,isDecompilable,distanceToOriginal,nbNodesOriginal,isRecompilable,bytecodeDistance,passTests
+mimecraft/javac/com/squareup/mimecraft/FormEncoding,true,119,633,false,NA,false
+mimecraft/javac/com/squareup/mimecraft/Multipart,true,275,1780,false,NA,false
+mimecraft/javac/com/squareup/mimecraft/Utils,true,19,363,false,NA,false
+mimecraft/javac/com/squareup/mimecraft/Part,true,679,3609,false,NA,NA

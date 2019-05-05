@@ -1,0 +1,9 @@
+method
+aload_0
+invokespecial
+return
+method
+aload_0
+invokevirtual
+invokevirtual
+ireturn
